@@ -14,8 +14,9 @@ It Deals with the Basic Functionality Like:
 	* once The Sub-task is over u can mark it as complete manually.
 	* U can Update or Edit the sub-task.
 	* u can Delete the Sub-task.
-By Dealing with this app u can familier with some of the concept of Kotlin Like:
-	-> RecyclerView:
+By Dealing with this app u can familier with some of the concept of Kotlin Like: 
+	  
+	  -> RecyclerView:
 		A RecyclerView is essentially a ViewGroup of containers called ViewHolders which populate a particular item.
 		 RecyclerView is an extensive and exhaustive Android class to provide a flexible UI.
 		 A huge benefit of using RecyclerView is that you’re able to is efficiently reuse views 
@@ -45,8 +46,7 @@ By Dealing with this app u can familier with some of the concept of Kotlin Like:
 			
 		
 * IN THESE APPLICATION Higher-Order Functions and Lambdas ARE USED IN FUNCTION LIKE TO CREATE,EDIT,DELETE,UPDATE A TASK
-
-*AND SOME OTHER BASIC CONCEPTS LIKE data types, operators, variables AND ETC....
+* AND SOME OTHER BASIC CONCEPTS LIKE data types, operators, variables AND ETC....
 
 
 
