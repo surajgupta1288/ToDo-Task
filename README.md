@@ -2,6 +2,8 @@
 It is a simple and  basic ToDo List application By using Kotlin. 
 
 It Deals with the Basic Functionality Like:
+
+
 	* Creating a task.
 	* We can Edit that task.
 	* We can Delete that task.
@@ -12,7 +14,6 @@ It Deals with the Basic Functionality Like:
 	* once The Sub-task is over u can mark it as complete manually.
 	* U can Update or Edit the sub-task.
 	* u can Delete the Sub-task.
-=======================================================================================
 By Dealing with this app u can familier with some of the concept of Kotlin Like:
 	-> RecyclerView:
 		A RecyclerView is essentially a ViewGroup of containers called ViewHolders which populate a particular item.
