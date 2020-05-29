@@ -16,7 +16,6 @@ It Deals with the Basic Functionality Like:
 	* u can Delete the Sub-task.
 By Dealing with this app u can familier with some of the concept of Kotlin Like:
 
-
 	-> RecyclerView:
 		A RecyclerView is essentially a ViewGroup of containers called ViewHolders which populate a particular item.
 		 RecyclerView is an extensive and exhaustive Android class to provide a flexible UI.
